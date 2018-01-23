@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Audio.cs">
+    <Files>
+      <File FileName="Assets\StarMenu\MenuScript.cs" Line="19" Column="27" />
+      <File FileName="Assets\Pasar16Ilir-2\Level2Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Map\MapScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\JembatanAmpera-1\Level1Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\StadionGloraSriwijaya\Level3Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Unsri-5\Level5Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Saving and Loading\LoadInformation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Saving and Loading\SaveInformation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Audio.cs" Line="37" Column="17" />
+      <File FileName="Assets\Pulau Kemaro\Level4Script.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
